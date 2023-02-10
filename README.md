@@ -1,4 +1,4 @@
-# Guidelines on how to name repositories in GitHub at TCS Education System
+# Guidelines on how to name repositories in GitHub at TCS
 
 ***
 Here are some suggested guidelines on how to create repository names that are descriptive and searchable. 
