@@ -31,3 +31,7 @@ Examples: **product-jira, product-salesforce, product-ansible**
 ***
 ### Use 'temp' as prefix for repositories that are used for limited periods
 Examples: **temp-bomgarpoc, temp-awstesting**
+
+***
+### Use 'infra' as prefix for repositories containing infrastructure as code that applies to more than one (or none) existing repos
+Examples: **infra-aws-sftp-servers, infra-cloudflare-global-config, infra-aws-lightsail**
